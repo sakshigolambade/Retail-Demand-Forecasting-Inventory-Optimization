@@ -54,9 +54,11 @@ The relational schema consists of 6 primary entities linked via primary and fore
 
 ## 📈 Dashboard Preview
 
-| Dashboard 1 | Dashboard 2 | Dashboard 3
-| :---: | :---: | :---:
-| ![Dashboard 1](dashboards/dashboard1.png) | ![Dashboard 2](dashboards/dashboard2.png) | ![Dashboard 3](dashboards/dashboard3.png)
+<p align="center">
+  <img src="dashboards/dashboard1.png" width="30%" alt="Dashboard 1"/>
+  <img src="dashboards/dashboard2.png" width="30%" alt="Dashboard 2"/>
+  <img src="dashboards/dashboard3.png" width="30%" alt="Dashboard 3"/>
+</p>
 
 
 
